@@ -1,0 +1,9 @@
+MoodMingle/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── images, icons, gifs
+├── data/
+│   └── moods.json (optional: to store recs)
+├── README.md
